@@ -9,6 +9,7 @@ public class stringbuffer
         System.out.println(str.insert(5," Java"));
         System.out.println(str.delete(5,11));
         System.out.println(str.replace(0,5,"Hi"));
-        System.out.println("Character at index : "+str.charAt(2));
+        System.out.println("char at index 3 : "+str.charAt(3));
     }
 }
+
