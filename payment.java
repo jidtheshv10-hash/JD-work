@@ -1,6 +1,5 @@
 interface paymt {
     void pay();
-    
 }
 class upi implements paymt{
     public void upi()
