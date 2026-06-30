@@ -12,7 +12,7 @@ class developer extends employee {
 class manager extends employee
 {
     void calculatesalary()
-    {
+    {           
         System.out.println("Manager salary is calculated");
     }
 }
