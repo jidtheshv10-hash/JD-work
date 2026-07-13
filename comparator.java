@@ -1,10 +1,5 @@
-
-
-
-
-
 import java.util.*;
-class Student {
+class Student { 
     int id;
     String name;
     int marks;
